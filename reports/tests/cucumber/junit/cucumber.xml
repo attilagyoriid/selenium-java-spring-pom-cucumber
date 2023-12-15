@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="23.728">
+    <testcase classname="User visa registration feature" name="I should be able to submit visa form" time="10.146">
+        <system-out><![CDATA[Given I am on VISA registration form........................................passed
+When I select my from country "Isle of Man" and to country "Mali"...........passed
+And I enter my dob as "2011-05-31"..........................................passed
+And I enter my name as "Kraig" and "Wiza"...................................passed
+And I enter my contact details as "Kraig@nobody.com" and "1-000-884-1373"...passed
+And I enter the comment "comment1"..........................................passed
+And I submit the form.......................................................passed
+Then I should see get the confirmation number...............................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="User visa registration feature" name="I should be able to submit visa form 2" time="9.782">
+        <system-out><![CDATA[Given I am on VISA registration form........................................passed
+When I select my from country "Lithuania" and to country "Mexico"...........passed
+And I enter my dob as "2001-01-01"..........................................passed
+And I enter my name as "Houston" and "Kertzmann"............................passed
+And I enter my contact details as "Houston@nobody.com" and "284.864.6580"...passed
+And I enter the comment ""..................................................passed
+And I submit the form.......................................................passed
+Then I should see get the confirmation number...............................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="User visa registration feature" name="I should be able to submit visa form 3" time="8.315">
+        <system-out><![CDATA[Given I am on VISA registration form........................................passed
+When I select my from country "Somalia" and to country "Greece".............passed
+And I enter my dob as "2004-07-02"..........................................passed
+And I enter my name as "Ruthie" and "Stamm".................................passed
+And I enter my contact details as "Ruthie@nobody.com" and "1-209-813-9712"..passed
+And I enter the comment "comment2"..........................................passed
+And I submit the form.......................................................passed
+Then I should see get the confirmation number...............................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="User visa registration feature" name="I should be able to submit visa form 4" time="8.919">
+        <system-out><![CDATA[Given I am on VISA registration form........................................passed
+When I select my from country "Christmas Island" and to country "French Southern Territories".passed
+And I enter my dob as "2019-04-05"..........................................passed
+And I enter my name as "Shonna" and "Nolan".................................passed
+And I enter my contact details as "Shonna@nobody.com" and "(162) 387-0305"..passed
+And I enter the comment ""..................................................passed
+And I submit the form.......................................................passed
+Then I should see get the confirmation number...............................passed
+]]></system-out>
+    </testcase>
+</testsuite>

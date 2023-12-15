@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testng-results failed="0" passed="4" skipped="0" total="4">
+    <suite duration-ms="23728" name="io.cucumber.core.plugin.TestNGFormatter">
+        <test duration-ms="23728" name="io.cucumber.core.plugin.TestNGFormatter">
+            <class name="User visa registration feature">
+                <test-method duration-ms="10133" finished-at="2023-12-15T14:43:27.896255900Z" name="I should be able to submit visa form" started-at="2023-12-15T14:43:17.750229200Z" status="PASS"/>
+                <test-method duration-ms="9767" finished-at="2023-12-15T14:43:27.534104800Z" name="I should be able to submit visa form_2" started-at="2023-12-15T14:43:17.751195Z" status="PASS"/>
+                <test-method duration-ms="8312" finished-at="2023-12-15T14:43:35.876764100Z" name="I should be able to submit visa form_3" started-at="2023-12-15T14:43:27.561111200Z" status="PASS"/>
+                <test-method duration-ms="8916" finished-at="2023-12-15T14:43:36.830396500Z" name="I should be able to submit visa form_4" started-at="2023-12-15T14:43:27.911255800Z" status="PASS"/>
+            </class>
+        </test>
+    </suite>
+</testng-results>
