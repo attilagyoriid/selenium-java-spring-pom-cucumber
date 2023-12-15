@@ -6,7 +6,7 @@ Selenium e2e test with java, spring, page object model and cucumber
 - Email: gyoriattila@yahoo.com
 - Website: https://attila-gyori.com
 
-![Playwright](assets/playwright.png)
+![Playwright](assets/selenium.png)
 
 > Selenium 4.7+ with Cucumber, Page Object Model, cucumber report project.
 
